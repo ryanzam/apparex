@@ -24,7 +24,7 @@ State Management: Use Redux Toolkit or Zustand for managing cart and user state.
 ## Key Features and Requirements
 The web application must include the following pages and functionalities, all fully implemented and integrated:
 
-- [ ] Home Page:
+- [x] Home Page:
   1. Hero section with featured products or promotions (carousel/slider using Swiper.js or similar).
   2. Product categories grid (e.g., Men, Women, Kids, Shoes, Clothing, Accessories).
   3. Featured products section with images, prices, and "Add to Cart" buttons.
