@@ -51,7 +51,7 @@ const Navbar = () => {
                                 <Menu className="h-6 w-6" />
                             </Button>
                         </SheetTrigger>
-                        <SheetContent side="left">
+                        <SheetContent side="left" className="bg-white p-6">
                             <div className="flex flex-col gap-4 mt-8">
                                 <Links />
                             </div>
